@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bellmj998
 - 👀 I’m interested in Programming and Animation.
-- 🌱 I’m currently learning AFrame, VR, Game Design, and Proramming
+- 🌱 I’m currently learning AFrame, VR, Game Design, and Frontend Programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
